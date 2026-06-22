@@ -10,7 +10,6 @@
   ░   ░   ░ ░      ░        ░   ▒   ░░       
     ░                           ░  ░         
 --]]
-
 OrionLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/VerbalHubz/Verbal-Hub/main/Orion%20Hub%20Ui", true))()
 Window = OrionLib:MakeWindow({
     Name = "Verbal Hub Sigma Advance Ftap ",
