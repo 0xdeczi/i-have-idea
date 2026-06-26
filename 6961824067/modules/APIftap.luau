@@ -1,4 +1,5 @@
 --https://github.com/Oxwoey/FTAP-Module srry vex
+--rename by ai ((( 
 local RunService = game:GetService("RunService")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local GrabEvents = ReplicatedStorage:WaitForChild("GrabEvents")
